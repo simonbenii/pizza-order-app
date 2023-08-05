@@ -1,0 +1,141 @@
+{
+  "Pizzas": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "fresh basil",
+        "olive oil"
+      ],
+      "price": "2800",
+      "allergens": [
+        7,
+        11,
+        12
+      ],
+      "img": "../img/margherita.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "pepperoni"
+      ],
+      "price": "3200",
+      "allergens": [
+        1,
+        3
+      ],
+      "img": "../img/pepperoni.png"
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian",
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "mushrooms",
+        "bell peppers",
+        "red onions",
+        "black olives"
+      ],
+      "price": "3100",
+      "allergens": [
+        9
+      ],
+      "img": "../img/veggetarian.webp"
+    },
+    {
+      "id": 4,
+      "name": "Hawaiian",
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "ham",
+        "pineapple"
+      ],
+      "price": "3300",
+      "allergens": [
+        1,
+        7
+      ],
+      "img": "../img/hawaiian.png"
+    },
+    {
+      "id": 5,
+      "name": "BBQ Chicken",
+      "ingredients": [
+        "BBQ sauce",
+        "mozzarella cheese",
+        "grilled chicken",
+        "red onions",
+        "cilantro"
+      ],
+      "price": "3500",
+      "allergens": [
+        2,
+        6,
+        8
+      ],
+      "img": "../img/bbq-chicken.png"
+    },
+    {
+      "id": 6,
+      "name": "Four Cheese",
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "fontina cheese",
+        "gorgonzola cheese",
+        "parmesan cheese"
+      ],
+      "price": "3400",
+      "allergens": [
+        7
+      ],
+      "img": "../img/four-cheese-8058.png"
+    },
+    {
+      "id": 7,
+      "name": "Meat Lover's",
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "pepperoni",
+        "sausage",
+        "bacon",
+        "ham"
+      ],
+      "price": "3800",
+      "allergens": [
+        1,
+        3,
+        12
+      ],
+      "img": "../img/meat-lovers.png"
+    },
+    {
+      "id": 8,
+      "name": "Mediterranean",
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella cheese",
+        "feta cheese",
+        "black olives",
+        "sundried tomatoes",
+        "fresh basil",
+        "olive oil"
+      ],
+      "price": "3600",
+      "allergens": [
+        4,
+        11
+      ],
+      "img": "../img/mediterran.png"
+    }
+  ]
+}

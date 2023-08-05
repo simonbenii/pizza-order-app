@@ -1,1 +1,1 @@
-# pizza-order-app
+# pizza-order

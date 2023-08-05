@@ -1,0 +1,60 @@
+{
+  "allergens": [
+    {
+      "id": 1,
+      "name": "gluten"
+    },
+    {
+      "id": 2,
+      "name": "crustaceans"
+    },
+    {
+      "id": 3,
+      "name": "eggs"
+    },
+    {
+      "id": 4,
+      "name": "fish"
+    },
+    {
+      "id": 5,
+      "name": "peanuts"
+    },
+    {
+      "id": 6,
+      "name": "soy"
+    },
+    {
+      "id": 7,
+      "name": "milk"
+    },
+    {
+      "id": 8,
+      "name": "nuts"
+    },
+    {
+      "id": 9,
+      "name": "celery"
+    },
+    {
+      "id": 10,
+      "name": "mustard"
+    },
+    {
+      "id": 11,
+      "name": "sesame"
+    },
+    {
+      "id": 12,
+      "name": "sulphur dioxide and sulphites"
+    },
+    {
+      "id": 13,
+      "name": "lupin"
+    },
+    {
+      "id": 14,
+      "name": "molluscs"
+    }
+  ]
+}

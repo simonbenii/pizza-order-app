@@ -1,0 +1,124 @@
+{
+    "order": [
+        {
+            "id": 1,
+            "pizzas": [
+                {
+                    "id": 2,
+                    "amount": "2",
+                    "pizzaName": "Pepperoni"
+                },
+                {
+                    "id": 6,
+                    "amount": "3",
+                    "pizzaName": "Four Cheese"
+                }
+            ],
+            "date": {
+                "year": 2023,
+                "month": 5,
+                "day": 25,
+                "hour": 12,
+                "minute": 37
+            },
+            "customer": {
+                "name": "Simon Benedek",
+                "email": "simonbenedek02@gmail.com",
+                "address": {
+                    "city": "Budapest",
+                    "street": "-"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "pizzas": [
+                {
+                    "id": 3,
+                    "amount": "1",
+                    "pizzaName": "Vegetarian"
+                },
+                {
+                    "id": 7,
+                    "amount": "1",
+                    "pizzaName": "Meat Lover's"
+                }
+            ],
+            "date": {
+                "year": 2023,
+                "month": 5,
+                "day": 25,
+                "hour": 12,
+                "minute": 41
+            },
+            "customer": {
+                "name": "Ákos",
+                "email": "akosvagyok@gmail.com",
+                "address": {
+                    "city": "Budapest",
+                    "street": "-"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "pizzas": [
+                {
+                    "id": 1,
+                    "amount": "1",
+                    "pizzaName": "Margherita"
+                },
+                {
+                    "id": 4,
+                    "amount": "1",
+                    "pizzaName": "Hawaiian"
+                }
+            ],
+            "date": {
+                "year": 2023,
+                "month": 5,
+                "day": 25,
+                "hour": 13,
+                "minute": 59
+            },
+            "customer": {
+                "name": "Barni",
+                "email": "barnivagyok@gmail.com",
+                "address": {
+                    "city": "Budapest",
+                    "street": "-"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "pizzas": [
+                {
+                    "id": 1,
+                    "amount": "1",
+                    "pizzaName": "Margherita"
+                },
+                {
+                    "id": 3,
+                    "amount": "1",
+                    "pizzaName": "Vegetarian"
+                }
+            ],
+            "date": {
+                "year": 2023,
+                "month": 5,
+                "day": 25,
+                "hour": 14,
+                "minute": 2
+            },
+            "customer": {
+                "name": "Beni",
+                "email": "benivagyok@gmail.com",
+                "address": {
+                    "city": "Budapest",
+                    "street": "-"
+                }
+            }
+        }
+    ]
+}
